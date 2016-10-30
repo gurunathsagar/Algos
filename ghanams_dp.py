@@ -14,7 +14,7 @@ def matrixMult(numbers, matrix, dire):
 						matrix[i][j] = temp
 						dire[i][j] = k
 
-	pprint.pprint(dire)
+	#pprint.pprint(dire)
 	return matrix[1][n-1]
 
 print "DP\n"
