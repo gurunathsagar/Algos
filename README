@@ -1,0 +1,7 @@
+How to run:
+
+python ghanams_dp.py 1,2,3,4,5
+python ghanams_memoization.py 1,2,3,4,5
+python ghanams_recursive.py 1,2,3,4,5
+
+The array should be given as command line input. Without any spaces.
