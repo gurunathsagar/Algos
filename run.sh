@@ -1,0 +1,12 @@
+python ghanams_dp.py 10,20,30,40,50
+python ghanams_recursive.py 10,20,30,40,50
+python ghanams_memoization.py 10,20,30,40,50
+python ghanams_dp.py 100,200,300,400,500,600
+python ghanams_recursive.py 100,200,300,400,500,600
+python ghanams_memoization.py 100,200,300,400,500,600
+python ghanams_dp.py 10,20,30,40,50,33,77,88
+python ghanams_recursive.py 10,20,30,40,50,33,77,88
+python ghanams_memoization.py 10,20,30,40,50,33,77,88
+python ghanams_dp.py 10,20,30,40,50,60,70,80,90,100,110
+python ghanams_recursive.py 10,20,30,40,50,60,70,80,90,100,110
+python ghanams_memoization.py 10,20,30,40,50,60,70,80,90,100,110
